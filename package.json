@@ -1,0 +1,6 @@
+{
+  "name": "workbox-build-node-resolution-bug",
+  "dependencies": {
+    "workbox-build": "^5.0.0-alpha.0"
+  }
+}
